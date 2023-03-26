@@ -1,8 +1,8 @@
 ## Welcome I'm Erick
  
 
-- 😀 I am currently a BI intern
-- 🤓 Improving skills in Pandas and Numpy frameworks
+- 😀 I am currently a Software Engineer intern in Itau
+- 🤓 Improving skills in Java,SQL, Js and React 
 - 💬 Contact: erickccleite@gmail.com
 ##
   <div style="display: inline_block"><br>

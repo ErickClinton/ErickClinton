@@ -1,7 +1,7 @@
 ## Welcome I'm Erick
  
 
-- 😀 I am currently a Software Engineer intern in Itau
+- 😀 I am currently a Software Engineer Jn at Igc Partners
 - 🤓 Improving skills in Java,SQL, Js and React 
 - 💬 Contact: erickccleite@gmail.com
 ##

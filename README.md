@@ -1,7 +1,7 @@
 ## Welcome I'm Erick
  
 
-- 😀 I am currently a Software Engineer Jn at Igc Partners
+- 😀 I am currently a Software Engineer Pleno at Company Hero
 - 🤓 Improving skills in Java,SQL, Js and React 
 - 💬 Contact: erickccleite@gmail.com
 ##

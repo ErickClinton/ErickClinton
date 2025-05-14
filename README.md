@@ -1,8 +1,8 @@
 ## Welcome I'm Erick
  
 
-- 😀 I am currently a Software Engineer Pleno at Company Hero
-- 🤓 Improving skills in Java,SQL, Kafka, RabbitMq and Angular 
+- 😀 I am currently a Software Engineer Pleno at Btg Pactual
+- 🤓 Improving skills in Java,Kotlin, SQL, Kafka, RabbitMq and Angular 
 - 💬 Contact: erickccleite@gmail.com
 ##
   <div style="display: inline_block"><br>
